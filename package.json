@@ -1,0 +1,8 @@
+{
+  "name": "200-ok",
+  "description": "A HTTP server that replies with 200 OK no matter what",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
